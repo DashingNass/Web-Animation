@@ -138,8 +138,8 @@ PEZ is het snoepje met karakter! PEZ is leuk om te eten, leuk om te verzamelen e
 PEZ-snoepjes en -dispensers zijn wereldwijd verkrijgbaar in meer dan 90 landen en hebben echt een universele aantrekkingskracht!
 
 ## Over kunstwerk
-Het kunstwerk is gemaakt voor een Pez advertising, door Ludmila Hellmann-Kavalla (ook bekend als Mila Kavalla).
-Het kunstwerk compleet handgeschilderd d.m.v. het gebruik van gouachemacettes.
+Dit kunstwerk is gemaakt voor een Pez advertising door Ludmila Hellmann-Kavalla (ook bekend als Mila Kavalla).
+Het kunstwerk is compleet handgeschilderd met gouachemacettes.
 Gemaakt in: Vienna 1950.
 
 ## Gekozen kunstwerk
