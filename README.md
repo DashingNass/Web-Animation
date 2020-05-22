@@ -1,6 +1,7 @@
 ## PEZ Candy - Inhoudsopgave
 * [Geschiedenis van PEZ / Onderzoek](#geschiedenis-van-pez)
 * [PEZ Timeline](#pez-timeline)
+* [Over het kunstwerk](#over-kunstwerk)
 * [Gekozen kunstwerk](#gekozen-kunstwerk)
 * [Mijn concept](#mijn-concept)
 * [Bronnen](#bronnen)
@@ -136,16 +137,19 @@ Met heerlijk smakende snoeparoma's en verzamelautomaten is het meer dan alleen s
 PEZ is het snoepje met karakter! PEZ is leuk om te eten, leuk om te verzamelen en een hoofdbestanddeel van de Amerikaanse cultuur.</br>
 PEZ-snoepjes en -dispensers zijn wereldwijd verkrijgbaar in meer dan 90 landen en hebben echt een universele aantrekkingskracht!
 
+## Over kunstwerk
+Het kunstwerk is gemaakt voor een Pez advertising, door Ludmila Hellmann-Kavalla (ook bekend als Mila Kavalla).
+Het kunstwerk compleet handgeschilderd d.m.v. het gebruik van gouachemacettes.
+Gemaakt in: Vienna 1950.
 
 ## Gekozen kunstwerk
 <img src="https://ia801003.us.archive.org/18/items/lfakavalla0009/LFA_Kavalla_0009_mid.jpg" width="300">
 Het kunstwerk is afkomstig van het Online Archive.
 De poster is gecreëerd door Kavalla, Ludmila (Designer) en Hellmann-Kavalla (Agency).
 
-
 ## Mijn concept
-Voor mijn concept en/-of opdracht heb ik voor de poster, van het welkbekende PEZ snoepje te gebruiken.
-</br>De reden waarom ik hiervoor kies is omdat ik zelf op jongere leeftijd ook ooit eens zo een PEZ-candy dispenser in bezit had ~~(wellicht heb ik deze nog ergens in mijn archief staan thuis).~~
+Voor mijn concept en/-of opdracht heb ik voor de poster van het bekende PEZ snoepje te gebruiken.
+</br>De reden waarom ik hiervoor kies is omdat ik zelf op jongere leeftijd ook ooit eens zo een PEZ-candy heb gegeten en dus zodanig een dispenser in bezit had ~~(wellicht heb ik deze nog ergens verweg in huis staan).~~
 </br>
 Mijn idee om deze poster interactief te maken is door de handschoen heen en weer te laten schudden en de sneeuwvlokken op de achtergrond te laten bewegen. En wellicht ook een verborgen snoepje te verstoppen waarbij de gebruiker het moet zoeken.
 </br>
@@ -154,3 +158,4 @@ Ook kan de gebruiker van achtergrond verwisselen
 ## Bronnen
 - PEZ. (z.d.). The History of PEZ - About Us. Geraadpleegd op 8 mei 2020, van https://us.pez.com/pages/history
 - http://oa.letterformarchive.org/item?workID=lfa_kavalla_0009
+- https://letterformarchive.org/news/whats-new-in-the-online-archive-nov-2019
