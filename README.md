@@ -161,6 +161,10 @@ Ook kan de gebruiker van achtergrond verwisselen
 - **Vallende sneeuwvlokken:** De vallende sneeuwvlokken vallen naar beneden op de achtergrond.
 - **Sneewvlokken 'vangen':** De gebruiker kan over de vallende sneeuwvlokken heen hoveren om deze zogenaamd te vangen.
 - **Veranderen van snoep en achtergrond:** Door dat het beeld steeds een ander formaat krijg (mobiel, tablet en desktop) komen er verschillende achtergrond kleur-en snoepverpakking in beeld.
+- **Informatie knop**: De gebruiker kan rechtsboven op zijn scherm navigeren naar een informatie knop, na het hoveren over deze knop verschijnt er een tooltip waarin staat wat de gebruiker kan doen.
+- **Achtergrond kleur veranderen**: De gebruiker kan d.m.v. het drukken van de keyboard toets nummer 1 de achtergrond naar zwart aanpassen.
+
+(Kleine update: wegens het gebruik van Media queries is het mij niet gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
 
 ## Bronnen
 - PEZ. (z.d.). The History of PEZ - About Us. Geraadpleegd op 8 mei 2020, van https://us.pez.com/pages/history
