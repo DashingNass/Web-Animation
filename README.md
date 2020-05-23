@@ -157,10 +157,9 @@ Mijn idee om deze poster interactief te maken is door de handschoen heen en weer
 Ook kan de gebruiker van achtergrond verwisselen
 
 ## Interacties
-- Schudden: Als de gebruiker over de handschoen heen hovert schud deze heen en weer.
-- Vallende sneeuwvlokken: De gebruiker kan over de vallende sneeuwvlokken heen hoveren om deze te 'vangen'.
-- Veranderen van snoep en achtergrond: Door dat het beeld steeds een ander formaat krijg (mobiel, tablet en desktop) komen er verschillende achtergrond kleur-en snoepverpakking in beeld.
-
+- **Schudden:** Als de gebruiker over de handschoen heen hovert schud deze heen en weer.
+- **Vallende sneeuwvlokken:** De gebruiker kan over de vallende sneeuwvlokken heen hoveren om deze te 'vangen'.
+- **Veranderen van snoep en achtergrond:** Door dat het beeld steeds een ander formaat krijg (mobiel, tablet en desktop) komen er verschillende achtergrond kleur-en snoepverpakking in beeld.
 
 ## Bronnen
 - PEZ. (z.d.). The History of PEZ - About Us. Geraadpleegd op 8 mei 2020, van https://us.pez.com/pages/history
