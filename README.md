@@ -4,7 +4,7 @@
 * [Over het kunstwerk](#over-kunstwerk)
 * [Gekozen kunstwerk](#gekozen-kunstwerk)
 * [Mijn concept](#mijn-concept)
-* [Interacties](#interacties)
+* [Interacties en animaties](#interacties-en-animaties)
 * [Bronnen](#bronnen)
 
 ## Geschiedenis van PEZ
@@ -156,7 +156,7 @@ Mijn idee om deze poster interactief te maken is door de handschoen heen en weer
 </br>
 Ook kan de gebruiker van achtergrond verwisselen
 
-## Interacties + Animaties
+## Interacties en Animaties
 - **Schudden:** Als de gebruiker over de handschoen heen hovert schud deze heen en weer.
 - **Vallende sneeuwvlokken:** De vallende sneeuwvlokken vallen naar beneden op de achtergrond.
 - **Sneewvlokken 'vangen':** De gebruiker kan over de vallende sneeuwvlokken heen hoveren om deze zogenaamd te vangen.
