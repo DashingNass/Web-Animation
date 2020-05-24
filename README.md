@@ -176,11 +176,17 @@ Maar ik ga jou natuurlijk niet zeggen waar deze is ;)!
 (Kleine update: wegens het gebruik van Media queries is het mij niet meer gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
 
 ## Digitale Uitwerking
+![screenshot 2](https://user-images.githubusercontent.com/45563624/82763540-c0cfeb00-9e08-11ea-8a19-098e01eee777.png)
+<br/>
+Digitale uitwerking voor desktop.
 
+![screenshot 3](https://user-images.githubusercontent.com/45563624/82763560-f8d72e00-9e08-11ea-9a08-1c83b8827dda.png)
+<br/>
+Digitale uitwerking voor tablet.
 
-
-
-
+![screenshot 4](https://user-images.githubusercontent.com/45563624/82763577-1efcce00-9e09-11ea-9264-fd16032722ba.png)
+<br/>
+Digitale uitwerking voor mobiel.
 
 
 ## Bronnen
