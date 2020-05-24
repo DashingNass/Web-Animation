@@ -170,8 +170,10 @@ Ook kan de gebruiker van achtergrond verwisselen
 - **Sneewvlokken 'vangen':** De gebruiker kan over de vallende sneeuwvlokken heen hoveren om deze zogenaamd te vangen.
 - **Veranderen van snoep en achtergrond:** Door dat het beeld steeds een ander formaat krijg (mobiel, tablet en desktop) komen er verschillende achtergrond kleur-en snoepverpakking in beeld.
 - **Informatie knop**: De gebruiker kan rechtsboven op zijn scherm navigeren naar een informatie knop, na het hoveren over deze knop verschijnt er een tooltip waarin staat wat de gebruiker kan doen.
+- **Find the secret red PEZ candy wrapping:** Jouw taak is om als gebruiker de extra rode Pez verpakking te zoeken in het bestand, als je deze eenmaal gevonden hebt valt deze naar beneden met een leuke boodschap erbij.
+Maar ik ga jou natuurlijk niet zeggen waar deze is ;)!
 - **Achtergrond kleur veranderen**: De gebruiker kan d.m.v. het drukken van de keyboard toets nummer 1 de achtergrond naar zwart aanpassen.
-(Kleine update: wegens het gebruik van Media queries is het mij niet gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
+(Kleine update: wegens het gebruik van Media queries is het mij niet meer gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
 
 ## Digitale Uitwerking
 ![pez mobile](https://user-images.githubusercontent.com/45563624/82752934-f69db100-9dc1-11ea-825d-d49825f99318.png)
