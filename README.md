@@ -4,7 +4,7 @@ https://dashingnass.github.io/Web-Animation/ <br/>
 
 Bekijk de inhoudsopgave of scroll helemaal naar beneden om de digitale uitwerking te bekijken
 
-## PEZ Candy - Inhoudsopgave
+## PEZ Candy / Inhoudsopgave
 * [Geschiedenis van PEZ / Onderzoek](#geschiedenis-van-pez)
 * [PEZ Timeline](#pez-timeline)
 * [Over het kunstwerk](#over-kunstwerk)
@@ -12,6 +12,8 @@ Bekijk de inhoudsopgave of scroll helemaal naar beneden om de digitale uitwerkin
 * [Mijn concept](#mijn-concept)
 * [Interacties en animaties](#interacties-en-animaties)
 * [Digitale uitwerking](#digitale-uitwerking)
+* [Mijn grootste trots](#mijn-grootste-trots)
+* [Wat is niet gelukt?](#wat-is-niet-gelukt?)
 * [Bronnen](#bronnen)
 
 
@@ -187,6 +189,18 @@ Digitale uitwerking voor tablet.
 ![screenshot 4](https://user-images.githubusercontent.com/45563624/82763577-1efcce00-9e09-11ea-9264-fd16032722ba.png)
 <br/>
 Digitale uitwerking voor mobiel.
+
+## Mijn grootste trots
+Ik ben het meest trots op de sneeuwvlokken die naar beneden vallen en het *geheim snoepje* die naar beneden valt zodra je over een van de sneeuwvlokjes hovert!
+(Maar ik zeg lekker niet waar deze verstopt zit anders is het geen geheim meer!).
+(Eerlijk gezegd ben ik overal trots op!!)
+
+## Wat is niet gelukt?
+Ik wilde het liefste dat ik door middel van het hoveren op/over de handschoen er (kleine) PEZ snoepjes uit zouden vallen, zodat er een dynamisch effect wordt gecreerd. Alsof het dan echt lijkt dat je dus aan het schudden bent.
+Maar tervergeefs is dit mij **niet** gelukt omdat ik niet wist hoe ik dit via JavaScript kon en moest animeren/invoegen.
+
+Ten tweede baal ik er een klein beetje van dat ik mijn achtergrond niet kan aanpassen met een keycode.
+Misschien komt dit doordat ik media queries gebruikt heb?? Echter staat deze code **wel** in het javascript bestand, maar werkt helaas niet.
 
 
 ## Bronnen
