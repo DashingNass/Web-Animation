@@ -1,7 +1,8 @@
 ## URL naar mijn web-animatie
 De link hieronder verwijst door naar mijn animatie. <br/>
-https://dashingnass.github.io/Web-Animation/
+https://dashingnass.github.io/Web-Animation/ <br/>
 
+Bekijk de inhoudsopgave of scroll helemaal naar beneden om de digitale uitwerking te bekijken
 
 ## PEZ Candy - Inhoudsopgave
 * [Geschiedenis van PEZ / Onderzoek](#geschiedenis-van-pez)
@@ -173,8 +174,15 @@ Ook kan de gebruiker van achtergrond verwisselen
 (Kleine update: wegens het gebruik van Media queries is het mij niet gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
 
 ## Digitale Uitwerking
-/*tekst hier invullen*/
+![pez mobile](https://user-images.githubusercontent.com/45563624/82752934-f69db100-9dc1-11ea-825d-d49825f99318.png)
+Digitale uitwerking voor desktop.
 
+![screenshot](https://user-images.githubusercontent.com/45563624/82753038-e1755200-9dc2-11ea-806b-f70d7a7096d1.png)
+Digitale uitwerking voor de tablet.
+
+![screenshot 1](https://user-images.githubusercontent.com/45563624/82753059-0b2e7900-9dc3-11ea-80da-be775b0b5796.png)
+<br/>
+Digitale uitwerking voor mobiel.
 
 ## Bronnen
 - PEZ. (z.d.). The History of PEZ - About Us. Geraadpleegd op 8 mei 2020, van https://us.pez.com/pages/history
