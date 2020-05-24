@@ -63,7 +63,7 @@ p {
     text-shadow: 0 0 2px #FFF;
 }
 
-#some-element {
+#secretcandy {
     /*  border: 3px solid #ccc;*/
     display: none;
     /*  font-size: 10px;*/
@@ -71,7 +71,7 @@ p {
     /*  padding: 100px;*/
 }
 
-#secret-snowflake:hover #some-element {
+#secret-snowflake:hover #secretcandy {
     animation-duration: 10s, 3s;
     animation-iteration-count: infinite, infinite;
     animation-name: snowflakes-fall, snowflakes-shake;
@@ -99,12 +99,11 @@ p {
 }
 
 span p {
-    color: white;
+    color: #FFFF;
     left: -2em;
     position: absolute;
     top: 6em;
 }
-
 
 /*================================================*/
 /*                   TOOLTIP HOVER                */
