@@ -13,7 +13,7 @@ Bekijk de inhoudsopgave of scroll helemaal naar beneden om de digitale uitwerkin
 * [Interacties en animaties](#interacties-en-animaties)
 * [Digitale uitwerking](#digitale-uitwerking)
 * [Mijn grootste trots](#mijn-grootste-trots)
-* [Wat is niet gelukt?](#wat-is-niet-gelukt?)
+* [Wat is niet gelukt?](#wat-is-niet-gelukt)
 * [Bronnen](#bronnen)
 
 
