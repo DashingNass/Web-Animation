@@ -1,4 +1,5 @@
 ## URL naar mijn web-animatie
+De link hieronder verwijst door naar mijn animatie. <br/>
 https://dashingnass.github.io/Web-Animation/
 
 
@@ -9,7 +10,9 @@ https://dashingnass.github.io/Web-Animation/
 * [Gekozen kunstwerk](#gekozen-kunstwerk)
 * [Mijn concept](#mijn-concept)
 * [Interacties en animaties](#interacties-en-animaties)
+* [Digitale uitwerking](#digitale-uitwerking)
 * [Bronnen](#bronnen)
+
 
 ## Geschiedenis van PEZ
 Pez is een Oostenrijks snoepmerk, bedacht door Eduard Haas III en is uitgevonden in Vienna, Australie rond het jaartal 1927.
@@ -167,8 +170,11 @@ Ook kan de gebruiker van achtergrond verwisselen
 - **Veranderen van snoep en achtergrond:** Door dat het beeld steeds een ander formaat krijg (mobiel, tablet en desktop) komen er verschillende achtergrond kleur-en snoepverpakking in beeld.
 - **Informatie knop**: De gebruiker kan rechtsboven op zijn scherm navigeren naar een informatie knop, na het hoveren over deze knop verschijnt er een tooltip waarin staat wat de gebruiker kan doen.
 - **Achtergrond kleur veranderen**: De gebruiker kan d.m.v. het drukken van de keyboard toets nummer 1 de achtergrond naar zwart aanpassen.
-
 (Kleine update: wegens het gebruik van Media queries is het mij niet gelukt om deze interactie te laten uitvoeren, maar de code staat wel in mijn JavaScript file!)
+
+## Digitale Uitwerking
+/*tekst hier invullen*/
+
 
 ## Bronnen
 - PEZ. (z.d.). The History of PEZ - About Us. Geraadpleegd op 8 mei 2020, van https://us.pez.com/pages/history
