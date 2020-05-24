@@ -73,9 +73,10 @@ p {
     flex-flow: nowrap;
     margin-bottom: 36em;
     margin-left: 60em;
+
 }
 
-/*Kleine blokje die verschijnt*/
+/*Kleine blokje van de tooltip die verschijnt*/
 span {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
@@ -111,15 +112,19 @@ svg {
     position: absolute;
     transform: rotate(26deg);
     width: 30em;
+
 }
 
 #handschoen:hover {
     animation: wobble-hor-bottom infinite;
     animation-duration: 1.2s;
     transform: rotaterotate(54deg);
+
 }
 
-
+svg:hover{
+mix-blend-mode: lighten;
+}
 /*================================================*/
 /*                  PEZ SNOEPJE                   */
 /*================================================*/
@@ -292,9 +297,7 @@ path.st24 {
 /*Met de 'nth-of-type selectoren' selecteer ik de elementen die vanuit mijn HTML op bron volgorde, dit is ookwel een structural pseudo-class*/
 .snowflake:nth-of-type(0) {
     animation-delay: 0s, 0s;
-
     -webkit-animation-delay: 0s, 0s;
-
     left: 1%;
 }
 
@@ -639,6 +642,10 @@ path.st24 {
         font-family: 'Lato', sans-serif;
         font-size: 1em;
     }
+
+    svg:hover{
+mix-blend-mode: normal;
+}
 }
 
 /*tablet*/
@@ -698,7 +705,9 @@ path.st24 {
         font-family: 'Lato', sans-serif;
         font-size: 1em;
     }
-
+    svg:hover{
+mix-blend-mode: luminosity;
+}
 }
 
 /*desktop*/
@@ -763,4 +772,7 @@ path.st24 {
         font-family: 'Lato', sans-serif;
         font-size: 1em;
     }
+svg:hover{
+mix-blend-mode: normal;
+}
 }
