@@ -1,3 +1,17 @@
+/*In dit document toon ik een kleine inhoudsopgave wat je in dit CSS document/bestand kunt vinden.
+
+Ook is alles met duidelijke kopjes aangegeven in een comment-rule, zodat jij als docent het gemakkelijker kunt bedijken.
+
+– Algemene styling van de HTML elementen.
+– Secret Snowflake
+– Tooltip hover
+– Rozen handschoen (SVG)
+– Styling van de SVG
+– Sneeuwvlokken
+– Animaties
+– Media Queries voor de responsiveness
+*/
+
 /*================================================*/
 /*                ALGEMENE STYLING                */
 /*================================================*/
@@ -53,7 +67,7 @@ p {
 /*================================================*/
 /*                SECRET SNOWFLAKE ;P             */
 /*================================================*/
-
+/*Ja, deze 'secret snowflake' mag je lekker zelf gaan zoeken waar ie staat!!*/
 
 .giant-snowflake {
     bottom: -3em;
@@ -979,3 +993,7 @@ svg:hover {
         mix-blend-mode: normal;
     }
 }
+
+
+/*You have reached the end of the coding page. 
+This project has been finished by Nassera Grampon on 24th of May 2020 */
