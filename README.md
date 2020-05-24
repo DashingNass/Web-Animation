@@ -191,12 +191,11 @@ Digitale uitwerking voor tablet.
 Digitale uitwerking voor mobiel.
 
 ## Mijn grootste trots
-Ik ben het meest trots op de sneeuwvlokken die naar beneden vallen en het *geheim snoepje* die naar beneden valt zodra je over een van de sneeuwvlokjes hovert!
+Ik ben het meest trots op de sneeuwvlokken die naar beneden vallen en het *geheim snoepje* die naar beneden valt zodra je over een van de sneeuwvlokjes hovert!<br/>
 (Maar ik zeg lekker niet waar deze verstopt zit anders is het geen geheim meer!).
-(Eerlijk gezegd ben ik overal trots op!!)
 
 ## Wat is niet gelukt?
-Ik wilde het liefste dat ik door middel van het hoveren op/over de handschoen er (kleine) PEZ snoepjes uit zouden vallen, zodat er een dynamisch effect wordt gecreerd. Alsof het dan echt lijkt dat je dus aan het schudden bent.
+Ik wilde het liefste dat ik door middel van het hoveren op/over de handschoen er (kleine) PEZ snoepjes uit zouden vallen, zodat er een dynamisch effect wordt gecreerd. Alsof het dan echt lijkt dat je dus aan het schudden bent.<br/>
 Maar tervergeefs is dit mij **niet** gelukt omdat ik niet wist hoe ik dit via JavaScript kon en moest animeren/invoegen.
 
 Ten tweede baal ik er een klein beetje van dat ik mijn achtergrond niet kan aanpassen met een keycode.
