@@ -139,7 +139,7 @@ span p {
     width: 2em;
 }
 
-/*Kleine blokje die verschijnt*/
+/*Kleine blokje die verschijnt na het hoveren over de 'i' knop / info-knop*/
 .tooltip {
     display: flex;
     flex-basis: auto;
@@ -156,8 +156,8 @@ span {
 }
 
 .tooltip .tooltiptext {
-    background-color: white;
-    border: 1px dashed black;
+    background-color: #FFFFFF;
+    border: 1px dashed 000000;
     border-radius: 6px;
     color: #000000;
     padding: 5px 0;
@@ -314,7 +314,7 @@ svg:hover {
 /*================================================*/
 /*                  SNEEUWVLOKKEN                 */
 /*================================================*/
-/*Animatie afkomstig van: https://codepen.io/codeconvey/pen/xRzQay.*/
+/*Deze animatie afkomstig van: https://codepen.io/codeconvey/pen/xRzQay.*/
 
 /*Vallende sneeuwvlokjes*/
 .snowflake {
@@ -773,8 +773,6 @@ svg:hover {
     p {
         font-size: 1em;
         height: 5em;
-
-
     }
 
 
@@ -867,6 +865,8 @@ svg:hover {
         font-size: 1em;
     }
 
+    /* Dit is een stukje expirimentele code die ik wilde gebruiken om te kijken wat voor type effect het creert als
+    ik de mix-blemd-mode invoer bij het hover gedeelte van de tablet */
     svg:hover {
         mix-blend-mode: luminosity;
     }
@@ -989,7 +989,7 @@ svg:hover {
         font-family: 'Lato', sans-serif;
         font-size: 1em;
     }
-
+/* De mix-blend-mode staat hierin ingesteld op 'normal' omdat ik dit effect alleen bij de tablet weergave wilde toepassen.*/
     svg:hover {
         mix-blend-mode: normal;
     }
